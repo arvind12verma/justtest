@@ -2,4 +2,6 @@ i added a test in a.txt
 <?php
 echo "hello-world\n";
 echo "some new feature \n";
+echo "feature a\n";
+
 ?>
